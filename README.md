@@ -17,7 +17,7 @@ A hard working boy who enjoys good humour & coding.😉😉
 ### 📫 How can you reach me?
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sanjiv358)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/Sanjiv358/](https://www.linkedin.com/in/sanjiv-kumar-mahto-ba9b5b13a/))
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sanjiv-kumar-mahto-ba9b5b13a/)
 
 
 
