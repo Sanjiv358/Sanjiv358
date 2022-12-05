@@ -5,7 +5,7 @@
 - Java, Aspiring Java Developer
 
 ###  🌱 What do I do?
-- ✔️ Though I have completed my 12th, I aspire to work as a programmer.
+- ✔️ Though I have completed my Engineering in Mechanical stream, I aspire to work as a programmer.
 
 - ✔️ I'm a fast learner looking for interesting career opportunities as a Java developer. 
 - 🔭 Checkout my portfolio: **[Portfolio](https://Sanjiv358.github.io)**
