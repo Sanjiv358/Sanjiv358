@@ -47,14 +47,14 @@ A hard working boy who enjoys good humour & coding.😉😉
 <div>
 
  
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Sanjiv358&theme=tokyonight&border_radius=10" alt="Sanjiv" height="250px" width="47%" />
+<!--    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Sanjiv358&theme=tokyonight&border_radius=10" alt="Sanjiv" height="250px" width="47%" /> -->
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sanjiv358&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
 <div>
   </br>
   
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjiv358&theme=tokyonight" alt="Samruddhi" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Sanjiv358&theme=tokyonight&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
+<!--   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Sanjiv358&theme=tokyonight&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/> -->
 <div>
 
   
