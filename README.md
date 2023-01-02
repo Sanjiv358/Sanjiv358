@@ -34,7 +34,7 @@ A hard working boy who enjoys good humour & coding.😉😉
 
 ### Used Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode,sts)]()
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,sts)]()
 
 
 <br/>
