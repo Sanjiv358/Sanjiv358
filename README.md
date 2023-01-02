@@ -18,10 +18,11 @@ A hard working boy who enjoys good humour & coding.😉😉
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sanjiv358)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sanjiv-kumar-mahto-ba9b5b13a/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sanjiv-kumar-mahto-ba9b5b13a/))
 
 
 
-### Familiar Tech Stack:
+### Tech Skills:
 
 <!-- coding boy -->
 <img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
