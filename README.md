@@ -1,6 +1,6 @@
-### Hey , I'm Sanjiv Kumar Mahto <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
+<!-- ### Hey , I'm Sanjiv Kumar Mahto <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> -->
 
-###  🌱 I’m from Patna, Bihar, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
+<!-- ###  🌱 I’m from Patna, Bihar, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">. -->
 ###  🌱 I’m currently learning ...
 - Java, Aspiring Java Developer
 
