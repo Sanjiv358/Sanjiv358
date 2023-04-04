@@ -21,19 +21,18 @@ A hard working boy who enjoys good humour & coding.😉😉
 
 
 
-<!-- ### Tech Skills:
+<!--  ### Tech Skills: -->
 
 <!-- coding boy -->
 <img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
 
 <!-- language -->
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,js,html,css)]()
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,js,html,css)]() -->
 
 
 <br/>
- -->
-### Used Tools:
+<!-- ### Used Tools: -->
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,netlify)]() -->
 <h3 align="left">Languages and Tools:</h3>
