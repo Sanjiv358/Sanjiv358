@@ -50,10 +50,10 @@ A hard working boy who enjoys good humour & coding.😉😉
 <div>
 </br>
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjiv358&theme=tokyonight" alt="Samruddhi" height="260px" width="25%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjiv358&theme=tokyonight" alt="Sanjiv" height="260px" width="25%" />
 <div>
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ![Profile views](https://gpvc.arturio.dev/Sanjiv358)  
  
-![](./profile-3d-contrib/profile-night-green.svg)
+<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
