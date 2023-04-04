@@ -47,7 +47,7 @@ A hard working boy who enjoys good humour & coding.😉😉
 <div>
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sanjiv358&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
 <div>
-</br>
+<!-- </br> -->
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjiv358&theme=tokyonight" alt="Samruddhi" height="260px" width="25%" />
 <div>
