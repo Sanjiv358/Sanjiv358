@@ -1,6 +1,6 @@
-<!-- ### Hey , I'm Sanjiv Kumar Mahto <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> -->
+### Hey , I'm Sanjiv Kumar Mahto <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
-<!-- ###  🌱 I’m from Patna, Bihar, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">. -->
+###  🌱 I’m from Patna, Bihar, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
 ###  🌱 I’m currently learning ...
 - Java, Aspiring Java Developer
 
@@ -45,20 +45,14 @@ A hard working boy who enjoys good humour & coding.😉😉
 <br><br>
 <h2 align="center">📊 My Github Stats<h2>
 <div>
- 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sanjiv358&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sanjiv358&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
 <div>
-  </br>
-  
+</br>
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjiv358&theme=tokyonight" alt="Samruddhi" height="260px" width="25%" />
-
 <div>
-
-  
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ![Profile views](https://gpvc.arturio.dev/Sanjiv358)  
-
-
+ 
 ![](./profile-3d-contrib/profile-night-green.svg)
