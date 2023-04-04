@@ -28,7 +28,7 @@ A hard working boy who enjoys good humour & coding.😉😉
 
 <!-- language -->
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,js,html,css)]() -->
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,js,html,css)]()
 
 
 <br/>
