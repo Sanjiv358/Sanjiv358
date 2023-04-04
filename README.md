@@ -25,7 +25,7 @@ A hard working boy who enjoys good humour & coding.😉😉
 ### Tech Skills:
 
 <!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=false" />
 
 <!-- language -->
 
