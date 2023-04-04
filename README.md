@@ -1,6 +1,6 @@
-### Hey , I'm Sanjiv Kumar Mahto 
-###  🌱 I’m from Patna, Bihar, India 
-###  🌱 I’m currently learning ...
+# Hey , I'm Sanjiv Kumar Mahto 
+#  🌱 I’m from Patna, Bihar, India 
+# 🌱 I’m currently learning ...
 - Java, Aspiring Java Developer
 
 ###  🌱 What do I do?
