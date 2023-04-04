@@ -25,7 +25,7 @@ A hard working boy who enjoys good humour & coding.😉😉
 ### Tech Skills:
 
 <!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=false" />
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
 
 <!-- language -->
 
@@ -54,7 +54,7 @@ A hard working boy who enjoys good humour & coding.😉😉
   
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjiv358&theme=tokyonight" alt="Samruddhi" height="260px" width="25%" />
-<!--   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Sanjiv358&theme=tokyonight&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/> -->
+<!--   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Sanjiv358&theme=tokyonight&hide_border=false&area=false&border_radus=10" height="255px" width="70%"/> -->
 <div>
 
   
