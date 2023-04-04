@@ -29,13 +29,13 @@ A hard working boy who enjoys good humour & coding.😉😉
 
 <!-- language -->
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,js,html,css)]()
+[My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,js,html,css)]()
 
 <br/>
 
 ### Used Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,netlify)]()
+[My Skills](https://skillicons.dev/icons?i=git,github,vscode,netlify)]()
 
 
 <br/>
@@ -56,4 +56,4 @@ A hard working boy who enjoys good humour & coding.😉😉
 
 ![Profile views](https://gpvc.arturio.dev/Sanjiv358) 
  
-![](./profile-3d-contrib/profile-night-green.svg)
+<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
