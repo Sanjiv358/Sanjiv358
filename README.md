@@ -8,7 +8,7 @@
 
 - ✔️ I'm a fast learner looking for interesting career opportunities as a Java developer. 
 - 🔭 Checkout my portfolio: **[Portfolio](https://Sanjiv358.github.io)**
-- 💼 See my resume: **[Resume](https://drive.google.com/drive/folders/15iaiVEB8zfaQGbDGO22CmylE0otZpCdk?usp=sharing)**
+- 💼 See my resume: **[Resume](https://drive.google.com/file/d/1H1c0RfBwRDuL9mfKvvptBinFBltwoqVR/view?usp=sharing)**
 
 ### ⚡ One line that describes me best? 
 A hard working boy who enjoys good humour & coding.😉😉
